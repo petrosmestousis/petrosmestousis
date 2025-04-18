@@ -1,8 +1,8 @@
 ## Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://pixabay.com/illustrations/lightning-bolt-lightning-bolt-mp-1203953/">
- <source media="(prefers-color-scheme: light)" srcset="https://pixabay.com/vectors/bolt-lightning-flash-strike-yellow-306936/">
- <img alt="YOUR-ALT-TEXT" src="[https://pixabay.com/vectors/thunderbolt-lightning-cloud-thunder-29135/">
+ <source media="(prefers-color-scheme: dark)" srcset="(https://pixabay.com/illustrations/lightning-bolt-lightning-bolt-mp-1203953/)">
+ <source media="(prefers-color-scheme: light)" srcset="(https://pixabay.com/vectors/bolt-lightning-flash-strike-yellow-306936/)">
+ <img alt="YOUR-ALT-TEXT" src="(https://pixabay.com/vectors/thunderbolt-lightning-cloud-thunder-29135/)">
 </picture>
 
 
